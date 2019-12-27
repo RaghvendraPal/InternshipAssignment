@@ -1,1 +1,3 @@
 https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355402
+"CNN Based Image Forgery Detection Using Pre-trained AlexNet Model" Title of paper
